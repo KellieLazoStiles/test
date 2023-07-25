@@ -1,4 +1,5 @@
 # test
 
-[link] (docs/test1.md)
+[link](test1)
 
+[test](url)
